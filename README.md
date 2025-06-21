@@ -15,7 +15,7 @@
     </style>
   </head>
   <body>
-    <h1>My name is Ashton JAckovich</h1>
+    <h1>My name is Ashton Jackovich</h1>
     <p>I am a huge NFL fan.</p>
     <p>I enjoy playing golf and basketball.</p>
     <p>I love watching movies in my free time.</p>
